@@ -1,29 +1,8 @@
-# Descrición
+# IA Básica Física
+### Cambios en el proyecto
 
-Emprega este arquivo para describir os cambios do teu proxecto.
+- Se ha copiado y modificado (simplificado) el script "TANKSNPCController". El fichero nuevo se llama **TowerNPCController**.
+- Se ha creado una torreta que utiliza este nuevo script.
+- Se ha cambiado los tipos de munición que usan los tanques del jugador y del enemigo. Los dos ahora usan el **ShellSimple**.
 
-Utiliza o formato en markdown coas marcas básicas que aparcen no seguinte exemplo:
-
-# Título principal
-## Subtítulo
-
-Texto normal con **negriña** e *cursiva*.
-
-- Lista 1
-- Lista 2
-
-[Ligazón](https://exemplo.com)
-
-
-```csharp
-using UnityEngine;
-
-public class OlaMundo : MonoBehaviour
-{
-    void Start()
-    {
-        Debug.Log("Ola, mundo desde C#!");
-    }
-}
-
-```
+[Vínculo al repositorio en Github](https://github.com/jnomada/IABasicaFisica)
